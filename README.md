@@ -16,7 +16,6 @@
 <h3>Reference</h3>
 <p>
   Dribble: <a href="https://dribbble.com/shots/4585382-Simple-BMI-Calculator">BMI design</a><br>
-  Code: <a href="https://github.com/londonappbrewery/bmi-calculator-flutter">London app Brew</a>
 </p>
 
 <h3>Author</h3>
